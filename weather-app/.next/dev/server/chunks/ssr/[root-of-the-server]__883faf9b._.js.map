@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///Users/emilyadams/projects/Weather/weather-app/app/page.tsx"],"sourcesContent":["import WeatherWidget from \"@/components/WeatherWidget\";\n\nexport default function Home() {\n  return (\n    <main>\n      <h1>Weather App</h1>\n      <WeatherWidget />\n    </main>\n  );\n}\n"],"names":[],"mappings":";;;;;;;;;;;;AAEe,SAAS;IACtB,qBACE,gQAAC;;0BACC,gQAAC;0BAAG;;;;;;0BACJ,gQAAC;;;;;;;;;;;AAGP"}}]
+}
